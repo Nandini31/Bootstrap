@@ -1,0 +1,28 @@
+h1{
+	text-align: center;
+	margin-top: 50px;
+	font-family: Snap ITC;
+	font-size: 50px;
+	color: #800080;
+	background-color:#F4EAC2;
+}
+
+footer{
+	margin-top: 50px;
+	background-color: black;
+	color: #FFFFFF;
+	padding: 20px;
+	
+}
+
+.footer-link{
+	color: #FFFFFF;
+}
+
+button{
+	margin-top: 100px;
+}
+
+.footer-link:hover{
+	color: #FFFFFF;
+}
